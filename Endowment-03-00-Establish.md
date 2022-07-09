@@ -1,16 +1,34 @@
 ﻿# Establish
 
+[top](#establish)
+| [loc](#locate)
+| [inc](#incorporate)
+| [plan](#plan)
+| [org](#organize)
+| [dev](#develop)
+
 - Endowment-03-00-Establish.txt
 - establish.unew.org
 
-A lawyer may provide advice regarding the benefits of each form of corporation and of each location. A lawyer and accountant will be helpful in establishing and structuring the organization. Initial founders may work on the initial needs and growth of the organization, particularly with respect to planning and development.
+A lawyer may provide advice regarding the benefits of each form of corporation and of each location. 
+
+A lawyer and accountant may be helpful in establishing and structuring the organization. 
+
+Initial founders may work on the initial needs and growth of the organization, particularly with respect to planning and development.
 
 ## Locate
+
+[top](#establish)
+| [loc](#locate)
+| [inc](#incorporate)
+| [plan](#plan)
+| [org](#organize)
+| [dev](#develop)
 
 - Endowment-03-01-Locate.txt
 - locate.unew.org
 
-The legal location of the organization will determine its liability, tax obligations, licensing requirements, insurance requirements, financial reporting requirements, board, and officers required.
+The legal location of the organization will determine its liability, tax obligations, licensing requirements, insurance requirements, financial reporting requirements, board and officers required.
 
 - Delaware
 - Other States
@@ -19,6 +37,13 @@ The legal location of the organization will determine its liability, tax obligat
 - Other countries
 
 ## Incorporate
+
+[top](#establish)
+| [loc](#locate)
+| [inc](#incorporate)
+| [plan](#plan)
+| [org](#organize)
+| [dev](#develop)
 
 - Endowment-03-02-Incorporate.txt
 - incorporate.unew.org
@@ -42,6 +67,13 @@ Depending on the legal location, the steps to form a legal corporation will vary
 
 ## Plan
 
+[top](#establish)
+| [loc](#locate)
+| [inc](#incorporate)
+| [plan](#plan)
+| [org](#organize)
+| [dev](#develop)
+
 - Endowment-03-03-Plan.txt
 - plan.unew.org
 
@@ -56,6 +88,13 @@ Any organization needs a plan based on a mission. The style and content of the p
 
 ## Organize
 
+[top](#establish)
+| [loc](#locate)
+| [inc](#incorporate)
+| [plan](#plan)
+| [org](#organize)
+| [dev](#develop)
+
 - Endowment-03-04-Organize.txt
 - organize.unew.org
 
@@ -69,6 +108,13 @@ A list of founders and prospective participants may be outlined in an organizati
 - Accountant
 
 ## Develop
+
+[top](#establish)
+| [loc](#locate)
+| [inc](#incorporate)
+| [plan](#plan)
+| [org](#organize)
+| [dev](#develop)
 
 - Endowment-03-05-Develop.txt
 - develop.unew.org
