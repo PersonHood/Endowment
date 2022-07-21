@@ -1,13 +1,12 @@
 # Appendices
 
-- Endowment-99-00-Appendices.txt
-- appendices.unew.org
+- Endowment-99-00-Appendices.md
 
 Dozens of lists and resources may be included in separate documents, added and updated as needed.
 
 ## Bibliography
 
-- 00-Bibliography.txt
+- 00-Bibliography.md
 
 ## Motivate
 
