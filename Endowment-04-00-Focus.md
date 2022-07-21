@@ -1,16 +1,6 @@
 ﻿# Focus
 
-[top](#focus)
-| [edu](#educational)
-| [fin](#financial)
-| [med](#medical)
-| [tec](#technological)
-| [sit](#situational)
-| [lgl](#legal)
-| [log](#logistical)
-
-- Endowment-04-00-Focus.txt
-- focus.unew.org
+- Endowment-04-00-Focus.md
 
 Information and education is a large part of the over-all focus.
 
@@ -20,23 +10,11 @@ Without reinventing the wheel, the organization may collaborate with well-establ
 
 ## Educational
 
-[top](#focus)
-| [edu](#educational)
-| [fin](#financial)
-| [med](#medical)
-| [tec](#technological)
-| [sit](#situational)
-| [lgl](#legal)
-| [log](#logistical)
-
-- Endowment-04-01-Educational.txt
-- educational.unew.org
+- Endowment-04-01-Educational.md
 
 The internet is a means to obtaining nearly unlimited information on any topic imaginable. 
 
-Many are skilled data miners and search engine gurus where obtaining needed information is relatively easy. Many more are not skilled data miners nor gurus. 
-
-The organization may publish lists-of-lists and collections of information in an easily accessible format. 
+Many are skilled data miners and search engine gurus where obtaining needed information is relatively easy. Many more are not skilled data miners nor gurus. The organization may publish lists-of-lists and collections of information in an easily accessible format. 
 
 - Health care and preventive care
 - Personal finance, budgeting, insurance, taxes, savings, retirement
@@ -47,25 +25,15 @@ The organization may publish lists-of-lists and collections of information in an
 - Old school outreach using print media, broadcast media, billboards
 - Leverage on-line media to reach the masses
    - Wikipedia
-   - Podcasts
-   - Blogs 
-   - Influencers
+	 - Podcasts
+	 - Blogs 
+	 - Influencers
 - Coalitions and collaborations to build strength
 - Rely on referrals where possible
 
 ## Financial
 
-[top](#focus)
-| [edu](#educational)
-| [fin](#financial)
-| [med](#medical)
-| [tec](#technological)
-| [sit](#situational)
-| [lgl](#legal)
-| [log](#logistical)
-
-- Endowment-04-02-Financial.txt
-- financial.unew.org
+- Endowment-04-02-Financial.md
 
 The cost of most products and services will never be reduced, at best the increases in cost may moderate or slow. 
 
@@ -80,17 +48,7 @@ Additional subsidies provided to individuals will never be unwelcome. The organi
 
 ## Medical
 
-[top](#focus)
-| [edu](#educational)
-| [fin](#financial)
-| [med](#medical)
-| [tec](#technological)
-| [sit](#situational)
-| [lgl](#legal)
-| [log](#logistical)
-
-- Endowment-04-03-Medical.txt
-- medical.unew.org
+- Endowment-04-03-Medical.md
 
 Given recent courtroom decisions and an evolving legal environment there is a growing need for medical support and information. 
 
@@ -104,17 +62,7 @@ As the organization grows and enjoys more stable funding, additional capital-int
 
 ## Technological
 
-[top](#focus)
-| [edu](#educational)
-| [fin](#financial)
-| [med](#medical)
-| [tec](#technological)
-| [sit](#situational)
-| [lgl](#legal)
-| [log](#logistical)
-
-- Endowment-04-04-Technological.txt
-- technological.unew.org
+- Endowment-04-04-Technological.md
 
 Day-to-day use of modern interconnected devices reveals more about an individual than may be understood. 
 
@@ -124,7 +72,7 @@ Minimizing information sharing is a good defensive and a preventative strategy t
 
 All of the topics listed have been covered a dozen times over in dozen of on-line locations. More than one individual or organization has collected related information into a single repository. 
 
-However, challenges in finding the information and the manner of presentation prevent the average technology user from gaining practical knowledge. Collecting, editing, and publishing this information for targeted clients and colleagues provides a first step in minimizing their unintentional information sharing.
+However, challenges in finding the information and the manner of presentation prevent the average technology user from gaining practical knowledge. Collecting, editing, and publishing this information to targeted clients and colleagues provides a first step in minimizing their unintentional information sharing.
 
 - Devices
    - Disposal
@@ -150,17 +98,7 @@ However, challenges in finding the information and the manner of presentation pr
 
 ## Situational
 
-[top](#focus)
-| [edu](#educational)
-| [fin](#financial)
-| [med](#medical)
-| [tec](#technological)
-| [sit](#situational)
-| [lgl](#legal)
-| [log](#logistical)
-
-- Endowment-04-05-Situational.txt
-- situational.unew.org
+- Endowment-04-05-Situational.md
 
 With recent courtroom decisions and less than favorable economic conditions there may arise emergencies 
 where a focused coordinated support effort is required, apart from day-to-day support. 
@@ -176,17 +114,7 @@ Similar to the work of the Federal Emergency Management Agency (FEMA), the organ
 
 ## Legal
 
-[top](#focus)
-| [edu](#educational)
-| [fin](#financial)
-| [med](#medical)
-| [tec](#technological)
-| [sit](#situational)
-| [lgl](#legal)
-| [log](#logistical)
-
-- Endowment-04-06-Legal.txt
-- legal.unew.org
+- Endowment-04-06-Legal.md
 
 There are many individuals and organizations providing legal support. 
 
@@ -201,17 +129,7 @@ The organization may help finding the door, opening the door, and taking the fir
 
 ## Logistical
 
-[top](#focus)
-| [edu](#educational)
-| [fin](#financial)
-| [med](#medical)
-| [tec](#technological)
-| [sit](#situational)
-| [lgl](#legal)
-| [log](#logistical)
-
-- Endowment-04-07-Logistical.txt
-- logistical.unew.org
+- Endowment-04-07-Logistical.md
 
 These are long term goals requiring higher levels of financial support. 
 
