@@ -1,9 +1,7 @@
-# Endowment
-National Endowment for Women (NEW) 
+## Endowment
+National Endowment for Women 
+(NEW) 
  
-This set of documents outlines how to create 
-a National Endowment for Women.
-
 The proposed organization may establish an 
 endowment in order to: 
 
