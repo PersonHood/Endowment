@@ -1,3 +1,3 @@
-Link to Github repository
+Link to GitHub repository.
 
 [Link](https://github.com/PersonHood/Endowment)
