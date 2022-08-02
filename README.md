@@ -1,6 +1,8 @@
 ## Endowment
 National Endowment for Women 
 (NEW) 
+
+Download the latest `Release` zip file.
  
 The proposed organization may establish an 
 endowment in order to: 
