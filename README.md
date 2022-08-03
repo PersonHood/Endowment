@@ -2,8 +2,10 @@
 National Endowment for Women 
 (NEW) 
 
-Download the latest `Release` zip file.
- 
+Download the latest `Release`.
+
+>[zip](https://github.com/PersonHood/Endowment/archive/refs/tags/v1.1.zip)
+
 The proposed organization may establish an 
 endowment in order to: 
 
